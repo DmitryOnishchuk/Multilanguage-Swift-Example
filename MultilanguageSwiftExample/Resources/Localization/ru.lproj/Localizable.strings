@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MultilanguageSwiftExample
+
+  Created by Dmitry Onishchuk on 01.01.2022.
+  
+*/
+
+// MARK: - Common
+
+"TEST_LABEL" = "Тестовая строчка";
+"CHANGE_LANGUAGE" = "Сменить язык";
