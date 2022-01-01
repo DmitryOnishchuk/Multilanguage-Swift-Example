@@ -6,7 +6,8 @@
   
 */
 
-// MARK: - Common
+// MARK: - Main
 
-"TEST_LABEL" = "Тестовая строчка";
-"CHANGE_LANGUAGE" = "Сменить язык";
+"MAIN_TEST_LABEL_STATIC" = "Тестовая строчка (статически)";
+"MAIN_TEST_LABEL_DYNAMIC" = "Тестовая строчка (динамически)";
+"MAIN_CHANGE_LANGUAGE" = "Сменить язык";

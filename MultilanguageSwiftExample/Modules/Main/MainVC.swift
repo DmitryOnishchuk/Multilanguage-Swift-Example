@@ -12,7 +12,7 @@ class MainVC: UIViewController{
     }
     
     func onLoad(){
-        dynamicLocalizableLabel.text = "TEST_LABEL".localized
+        dynamicLocalizableLabel.text = "MAIN_TEST_LABEL_DYNAMIC".localized
     }
     
     deinit {

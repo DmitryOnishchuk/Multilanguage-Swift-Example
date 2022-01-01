@@ -6,7 +6,8 @@
   
 */
 
-// MARK: - Common
+// MARK: - Main
 
-"TEST_LABEL" = "Test string";
-"CHANGE_LANGUAGE" = "Change Language";
+"MAIN_TEST_LABEL_STATIC" = "Test string (static)";
+"MAIN_TEST_LABEL_DYNAMIC" = "Test string (dynamic)";
+"MAIN_CHANGE_LANGUAGE" = "Change language";
