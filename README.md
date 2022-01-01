@@ -2,4 +2,4 @@
 
 ----
 
-Multilanguage Swift Example Project whit in-app change language feature
+Multilanguage Swift Example Project with in-app change language feature
